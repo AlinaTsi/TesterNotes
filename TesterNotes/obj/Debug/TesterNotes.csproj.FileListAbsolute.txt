@@ -1,0 +1,143 @@
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe.config
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\TesterNotes.pdb
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Login_Form.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Properties.Resources.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.exe
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.pdb
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Registration_Form.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Main_Form.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddProject_Form.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.CopyComplete
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddTask_Form.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddReport_Form.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddEnvironmentForm.resources
+C:\Users\User\Desktop\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddPlatformForm.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe.config
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\TesterNotes.pdb
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\ZstdNet.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddProject_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddReport_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddTask_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Login_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Main_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Properties.Resources.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Registration_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.CopyComplete
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.exe
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.pdb
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Menu.resources
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\itextsharp.dll
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\bin\Debug\itextsharp.xml
+C:\Users\User\OneDrive\Робочий стіл\диплом\TesterNotes\TesterNotes\obj\Debug\TesterNotes.SaveReport_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe.config
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\TesterNotes.pdb
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\itextsharp.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\ZstdNet.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\Google.Protobuf.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\itextsharp.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddProject_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddReport_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.AddTask_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Login_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Main_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Properties.Resources.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Registration_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.SaveReport_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.csproj.CopyComplete
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.exe
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.pdb
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Pass_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MailKit.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MimeKit.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MailKit.pdb
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MailKit.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MimeKit.pdb
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\MimeKit.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Account_Form.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.Resource.resources
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\TesterNotes.exe.manifest
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\bin\Debug\TesterNotes.application
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.exe.manifest
+C:\Users\User\OneDrive\Робочий стіл\notes\TesterNotes\TesterNotes\obj\Debug\TesterNotes.application
